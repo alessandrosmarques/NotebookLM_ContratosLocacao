@@ -2,6 +2,8 @@
 
 Caderno de estudos criado no **NotebookLM** e documentado aqui no GitHub, com o objetivo de entender o amparo legal de contratos de locação residencial no Brasil, à luz da **Lei do Inquilinato (Lei nº 8.245/1991)**.
 
+![Notebook criado no NotebookLM](images/ContratosLocacao_NotebookLM.png)
+
 > ⚠️ **Aviso importante:** este repositório é material de **estudo pessoal**, não constitui consultoria jurídica. Antes de assinar ou rescindir qualquer contrato de locação, recomenda-se validar cláusulas específicas com um advogado.
 
 ---
